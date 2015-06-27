@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 6da4ad5bd709d4233a8dd111c5fc1df4
+timeCreated: 1435378027
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: runnig-2_0
+    21300002: runnig-2_1
+    21300004: runnig-2_2
+    21300006: runnig-2_3
+    21300008: runnig-2_4
+    21300010: runnig-2_5
+    21300012: runnig-2_6
+    21300014: runnig-2_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: runnig-2_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 85
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runnig-2_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 85
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runnig-2_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 85
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runnig-2_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 45
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runnig-2_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 45
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runnig-2_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 46
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runnig-2_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 7
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runnig-2_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 8
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
