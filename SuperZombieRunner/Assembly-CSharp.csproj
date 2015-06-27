@@ -49,6 +49,7 @@
      <Compile Include="Assets\Scripts\AnimatedTexture.cs" />
      <Compile Include="Assets\Scripts\CoinManager.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
+     <Compile Include="Assets\Scripts\HelloWorld.cs" />
      <Compile Include="Assets\Scripts\InputState.cs" />
      <Compile Include="Assets\Scripts\InstantVelocity.cs" />
      <Compile Include="Assets\Scripts\Jump.cs" />
